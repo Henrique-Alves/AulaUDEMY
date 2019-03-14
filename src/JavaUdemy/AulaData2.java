@@ -31,13 +31,14 @@ Calendar calendario = Calendar.getInstance();
 		
 		//como pegar a hora, minutos e segudos;
 		
-		int minutos = calendario.get(Calendar.MINUTE);
 		
+		int minutos = calendario.get(Calendar.MINUTE);
+
 		System.out.println(minutos);
 		
 		
-		
-
 	}
+
+	
 
 }
